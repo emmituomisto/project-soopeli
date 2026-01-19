@@ -35,6 +35,11 @@ High-level concept of how the digital service would work:
 
 🔗 [Pitch deck & presentation preview (Figma)](https://www.figma.com/deck/BnMEGF0lV39QhaLmX6LPxt/Soopeli-pitch)  
 
+Visual snapshots from the planning and concept development stage:
+
+![Ideation flow](planning/soopeli-ideation-flow.png)
+![Business model canvas](planning/soopeli-business-model-canvas.png)
+
 
 ## My Role – Tech & Design
 💜 Co-developed the concept together with a friend  
