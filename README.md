@@ -4,7 +4,7 @@
 
 This concept was developed during the **Social Business Academy**, a Finnish–Latvian training program focused on social entrepreneurship, and was pitched in **Tallinn, Estonia**.
 
-My role focused on **Tech & Design**, including digital platform thinking, service structure, and supporting the pitch materials.
+My role focused on **Tech & Design**, including digital platform thinking, service structure, and pitch preparation.
 
 
 
