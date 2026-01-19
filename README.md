@@ -58,24 +58,18 @@ Visual snapshots from the planning and concept development stage:
 
 
 ## Tools & Methods
-💜 Figma – Pitch deck and platform concept  
-💜 Service design and business model canvas  
-💜 Collaborative planning (Kanban-style workflow)  
+💜 Figma - Pitch deck and platform concept  
+💜 Miro - Service design and business model canvas  
+💜 Miro - Collaborative planning (Kanban-style workflow)  
 💜 Pitching and presentation skills  
 
 
 
 ## Materials
-💜 Pitch deck: see Figma link above  
-💜 Planning materials: available in `/planning/`  
-
-
-
-## External Context
-
-🔗 [Read Central Baltic Programme article here](https://centralbaltic.eu/project-news/from-self-doubt-to-confidence/)  
-
-🔗 [Read LinkedIn reflection post here](https://www.linkedin.com/feed/update/urn:li:activity:7308387013542432768/)  
+🔗 [Pitch deck & presentation preview (Figma)](https://www.figma.com/deck/BnMEGF0lV39QhaLmX6LPxt/Soopeli-pitch)  
+🔗 Planning materials: available in `/planning/`  
+🔗 [Central Baltic Programme article](https://centralbaltic.eu/project-news/from-self-doubt-to-confidence/)  
+🔗 [LinkedIn reflection post](https://www.linkedin.com/feed/update/urn:li:activity:7308387013542432768/)  
 
 
 
