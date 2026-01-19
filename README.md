@@ -26,7 +26,7 @@ Women face barriers in entering, staying, and growing in the tech industry, ofte
 
 
 ## Platform Logic & User Flow
-High-level concept of how the digital service would work:
+High-level view of how the platform would work:
 
 1️⃣ **Sign up & choose a path** (mentorship, career re-entry, or skill development)  
 2️⃣ **Get matched** with mentors and relevant learning resources  
